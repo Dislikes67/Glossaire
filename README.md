@@ -13,7 +13,7 @@ Général :
 6. Qu’est-ce qu’une superglobale, combien en existent-ils et donner un exemple d’utilisation --  Une superglobale est une variable qui est accessible n'importe ou dans le script, il en existe 8, un exemple de superglobales sont celles qui vont améliorer l'experience utilisateur et le suivre durant sa navigation ($_cookie et $_session).
 
 7. Quels sont les différents types (primitifs) que l’on peut associer à une variable en PHP ? Les citer et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
-8. Existe-t-il plusieurs types de tableaux en PHP, si oui lesquels ? -- Il existe trois type de tableaux : les tableaux associatifs composés d'une clé et d'une valeur
+8. Existe-t-il plusieurs types de tableaux en PHP, si oui lesquels ? -- Il existe trois type de tableaux : les tableaux associatifs composés d'une clé et d'une valeur, les tableaux multidimensionnels, tableau qui stock d'autres tableaux et les tableaux numérotés ou indexés, composés de clés en nombres.
 
 9. Quelles sont les différentes structures de contrôles qu’il existe en algorithmie ? Donner un exemple pour chacune d’entre elles
 10. Quelle est la fonction PHP permettant de demander la longueur d’une chaîne de caractères ? -- La fonction qui permet de demander la longueur d'une chaîne de caractère est strlen.
